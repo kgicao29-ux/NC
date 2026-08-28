@@ -1,10 +1,10 @@
 [
     {
         "iconUrl": "https://phim.nguonc.com/favicon.ico",
-        "fileHash": "sha256-c4fc0efdd1c7480fdf689f63c70ba19ad5b5b2b810e27c0f4cea1e57afa6f2ac",
+        "fileHash": "sha256-a4b4904db76cf53503b23e0261499103a90fa29a31898229121c66ed7f95af37",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/kgicao29-ux/NC",
-        "fileSize": 33336,
+        "fileSize": 40719,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -14,7 +14,7 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "NguonC",
         "description": "Xem phim t\u1eeb phim.nguonc.com (Phim Ngu\u1ed3n C) - phim l\u1ebb, phim b\u1ed9, TV shows Vietsub",
         "url": "https://raw.githubusercontent.com/kgicao29-ux/NC/builds/NguonC.cs3",
