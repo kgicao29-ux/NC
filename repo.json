@@ -1,8 +1,0 @@
-{
-  "name": "NguonC",
-  "description": "CloudStream extension for phim.nguonc.com",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/builds/plugins.json"
-  ]
-}
